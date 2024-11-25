@@ -22,6 +22,7 @@ public class primenum
         {
             System.out.println("The "+num+" is not prime number");
         }
+        sc.close();
     }
     
 }

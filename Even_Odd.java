@@ -14,5 +14,6 @@ public class Even_Odd
         {
             System.out.println(num+" is odd number ");
         }    
+        sc.close();
     }    
 }

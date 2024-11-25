@@ -21,5 +21,6 @@ public class palindrome
         {
             System.out.println(dup+" is not a palindome NUmber");
         }
+        sc.close();
     }    
 }

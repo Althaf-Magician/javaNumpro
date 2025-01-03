@@ -17,6 +17,6 @@ public class Fibinocci
             a=b;
             b=c;
             c=a+b;
-        }    
+        }     
     }
 }

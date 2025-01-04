@@ -185,7 +185,7 @@ class Operations
                 System.out.println("confirm the new pin : ");
                 int cnew_pin=sc.nextInt();
                 if (new_pin==cnew_pin) 
-                {
+                { 
                     obj.setPin(cnew_pin);
                 }    
             }

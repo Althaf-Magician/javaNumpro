@@ -6,7 +6,7 @@
 // Input: arr[] = [1, -2, 1, 0, 5], target = 0
 // Output: false
 // Explanation: There is no pair with sum equals to given target.
-import java.util.*;
+import java.util.*; 
 public class Two_Sumpair 
 {
     public static void main(String[] args) 
